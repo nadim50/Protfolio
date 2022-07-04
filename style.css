@@ -1,0 +1,139 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+
+
+h1 {
+
+    font-size: 50px;
+
+}
+
+.a {
+    color: orange;
+
+}
+
+
+
+.b {
+    width: 50%;
+
+}
+
+.b img {
+    width: 58%;
+
+}
+
+#c {
+    padding-left: 130px;
+
+}
+
+#d {
+    padding-top: 15px;
+    padding-left: 200px;
+}
+
+#dd {
+    padding-top: 15px;
+    padding-left: 130px;
+}
+
+.e {
+    text-decoration: none;
+    background-color: rgba(255, 64, 0, 0.716);
+    padding: 5px 10px;
+    color: white;
+    font-weight: 900px;
+    border-radius: 5px;
+
+
+}
+
+.top {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    display: flex;
+
+}
+
+#cc {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.f {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 70px;
+    display: flex;
+}
+
+
+#xy {
+    padding-left: 90px;
+    color: tomato;
+
+
+}
+
+.x {
+    display: flex;
+    margin-bottom: 5%;
+
+
+
+}
+
+#x {
+    padding-left: 40px;
+    padding-bottom: 120px;
+    box-shadow: 10px 10px 10px tomato;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5px 10px 10px 65px;
+    border-radius: 40px;
+
+
+
+}
+
+
+
+.nnn {
+    color: orange;
+}
+
+
+
+
+
+#mm {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.ccc {
+    border-top: 10px solid maroon;
+    border-left: 30px solid lightcoral;
+}
+
+.ddd {
+    border-top: 10px solid greenyellow;
+    border-left: 30px solid lightpink;
+}
+
+footer p {
+    text-align: center;
+    color: orange;
+    font-size: 30px;
+    font-weight: 400px;
+}
